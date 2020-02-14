@@ -1,3 +1,20 @@
+# SSVC Tests
+This is a fork of SSVC repository. The changes are as follows:
+
+- Some minor issues are fixed in original `src/ssvc.py` file.
+- `src/ssvc_tests.py` is added, which contains test functions to generate test output files in data folder.
+- Following files in `data/*` which are output of running the tests are added so they can be consumed without having to run the tests.
+ - `ssvc_1_divergence.txt`
+ - `ssvc_1_inner_merge.csv`
+ - `ssvc_1_inner_merge_numbers.csv`
+ - `ssvc_1_outer_merge.csv`
+ - `ssvc_1_outer_merge_numbers.csv`
+- This README.md is modified to reflect the changes.
+
+These tests are added in the context of the article: [A Critical First Look at Stakeholder Specific Vulnerability Categorization (SSVC)][https://secursive.github.io/posts/1-Critical-Look-Stakeholder-Specific-Vulnerability-Categorization-SSVC.html].
+
+---
+
 # SSVC
 Stakeholder-Specific Vulnerability Categorization
 
@@ -22,6 +39,10 @@ change what the module above recommends.
 The two methods just loop through their respective lookup tables until
 they hit a match, then return the outcome. Maybe not the best implementation, but it worked
 well enough for what was needed at the time.
+
+`src/ssvc_tests.py`
+
+This performs various tests on SSVC model and prints out the results.
 
 ## References
 
