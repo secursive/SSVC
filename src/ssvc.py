@@ -27,7 +27,7 @@ defaults = {
     # If the decision maker knows nothing about the
     # environment in which the device is used, we suggest assuming a major safety impact.
     # This position is conservative, but software is thoroughly embedded in daily life now,
-    # so we suggest that the decision maker provide evidence that no one’s well-being will
+    # so we suggest that the decision maker provide evidence that no one's well-being will
     # suffer. The reach of software exploits is no longer limited to a research network.
     "safety_impact": "major",
 
@@ -106,6 +106,7 @@ def developer_tree(exploitation=None, utility=None, technical_impact=None, safet
             continue
         # return the first thing that matches all four of the above
         item['defaults_applied'] = sorted(defaults_applied)
+        return item
 
     # if you got here, you failed to match
     raise SSVC_Error("No match")
