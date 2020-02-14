@@ -42,9 +42,10 @@ well enough for what was needed at the time.
 
 `src/ssvc_tests.py`
 
-This performs various tests on SSVC model and prints out the results.
+This performs various tests on SSVC model and store the results in various files in `data/` folder.
 
 ## References
 
 1. Spring, J., Hatleback, E., Householder, A., Manion, A., and Shick, D. "Prioritizing Vulnerability Response: A Stakeholder-Specific Vulnerability Categorization." White Paper, Software Engineering Institute, Carnegie Mellon University (2019). https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=636379
 2. Spring, J., Hatleback, E., Householder, A., Manion, A., and Shick, D. "Towards Improving CVSS." White Paper, Software Engineering Institute, Carnegie Mellon University (2018). https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=538368
+3. Akbar, M. "A Critical First Look at Stakeholder Specific Vulnerability Categorization (SSVC)" Article, Secursive Blog (2020). https://secursive.github.io/posts/1-Critical-Look-Stakeholder-Specific-Vulnerability-Categorization-SSVC.html
