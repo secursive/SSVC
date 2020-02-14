@@ -1,0 +1,642 @@
+,Exploitation,Exposure,MissionImpact,SafetyImpact,Outcome,Utility,TechnicalImpact
+0,active,small,none,catastrophic,immediate,laborious,partial
+1,active,small,none,catastrophic,immediate,laborious,total
+2,active,small,none,catastrophic,immediate,efficient,partial
+3,active,small,none,catastrophic,immediate,efficient,total
+4,active,small,none,catastrophic,immediate,super effective,partial
+5,active,small,none,catastrophic,immediate,super effective,total
+6,active,small,degraded,catastrophic,immediate,laborious,partial
+7,active,small,degraded,catastrophic,immediate,laborious,total
+8,active,small,degraded,catastrophic,immediate,efficient,partial
+9,active,small,degraded,catastrophic,immediate,efficient,total
+10,active,small,degraded,catastrophic,immediate,super effective,partial
+11,active,small,degraded,catastrophic,immediate,super effective,total
+12,active,small,MEF crippled,catastrophic,immediate,laborious,partial
+13,active,small,MEF crippled,catastrophic,immediate,laborious,total
+14,active,small,MEF crippled,catastrophic,immediate,efficient,partial
+15,active,small,MEF crippled,catastrophic,immediate,efficient,total
+16,active,small,MEF crippled,catastrophic,immediate,super effective,partial
+17,active,small,MEF crippled,catastrophic,immediate,super effective,total
+18,active,small,MEF fail,catastrophic,immediate,laborious,partial
+19,active,small,MEF fail,catastrophic,immediate,laborious,total
+20,active,small,MEF fail,catastrophic,immediate,efficient,partial
+21,active,small,MEF fail,catastrophic,immediate,efficient,total
+22,active,small,MEF fail,catastrophic,immediate,super effective,partial
+23,active,small,MEF fail,catastrophic,immediate,super effective,total
+24,active,small,mission fail,catastrophic,immediate,laborious,partial
+25,active,small,mission fail,catastrophic,immediate,laborious,total
+26,active,small,mission fail,catastrophic,immediate,efficient,partial
+27,active,small,mission fail,catastrophic,immediate,efficient,total
+28,active,small,mission fail,catastrophic,immediate,super effective,partial
+29,active,small,mission fail,catastrophic,immediate,super effective,total
+30,active,controlled,none,catastrophic,immediate,laborious,partial
+31,active,controlled,none,catastrophic,immediate,laborious,total
+32,active,controlled,none,catastrophic,immediate,efficient,partial
+33,active,controlled,none,catastrophic,immediate,efficient,total
+34,active,controlled,none,catastrophic,immediate,super effective,partial
+35,active,controlled,none,catastrophic,immediate,super effective,total
+36,active,controlled,degraded,catastrophic,immediate,laborious,partial
+37,active,controlled,degraded,catastrophic,immediate,laborious,total
+38,active,controlled,degraded,catastrophic,immediate,efficient,partial
+39,active,controlled,degraded,catastrophic,immediate,efficient,total
+40,active,controlled,degraded,catastrophic,immediate,super effective,partial
+41,active,controlled,degraded,catastrophic,immediate,super effective,total
+42,active,controlled,MEF crippled,catastrophic,immediate,laborious,partial
+43,active,controlled,MEF crippled,catastrophic,immediate,laborious,total
+44,active,controlled,MEF crippled,catastrophic,immediate,efficient,partial
+45,active,controlled,MEF crippled,catastrophic,immediate,efficient,total
+46,active,controlled,MEF crippled,catastrophic,immediate,super effective,partial
+47,active,controlled,MEF crippled,catastrophic,immediate,super effective,total
+48,active,controlled,MEF fail,catastrophic,immediate,laborious,partial
+49,active,controlled,MEF fail,catastrophic,immediate,laborious,total
+50,active,controlled,MEF fail,catastrophic,immediate,efficient,partial
+51,active,controlled,MEF fail,catastrophic,immediate,efficient,total
+52,active,controlled,MEF fail,catastrophic,immediate,super effective,partial
+53,active,controlled,MEF fail,catastrophic,immediate,super effective,total
+54,active,controlled,mission fail,catastrophic,immediate,laborious,partial
+55,active,controlled,mission fail,catastrophic,immediate,laborious,total
+56,active,controlled,mission fail,catastrophic,immediate,efficient,partial
+57,active,controlled,mission fail,catastrophic,immediate,efficient,total
+58,active,controlled,mission fail,catastrophic,immediate,super effective,partial
+59,active,controlled,mission fail,catastrophic,immediate,super effective,total
+60,active,unavoidable,none,catastrophic,immediate,laborious,partial
+61,active,unavoidable,none,catastrophic,immediate,laborious,total
+62,active,unavoidable,none,catastrophic,immediate,efficient,partial
+63,active,unavoidable,none,catastrophic,immediate,efficient,total
+64,active,unavoidable,none,catastrophic,immediate,super effective,partial
+65,active,unavoidable,none,catastrophic,immediate,super effective,total
+66,active,unavoidable,degraded,catastrophic,immediate,laborious,partial
+67,active,unavoidable,degraded,catastrophic,immediate,laborious,total
+68,active,unavoidable,degraded,catastrophic,immediate,efficient,partial
+69,active,unavoidable,degraded,catastrophic,immediate,efficient,total
+70,active,unavoidable,degraded,catastrophic,immediate,super effective,partial
+71,active,unavoidable,degraded,catastrophic,immediate,super effective,total
+72,active,unavoidable,MEF crippled,catastrophic,immediate,laborious,partial
+73,active,unavoidable,MEF crippled,catastrophic,immediate,laborious,total
+74,active,unavoidable,MEF crippled,catastrophic,immediate,efficient,partial
+75,active,unavoidable,MEF crippled,catastrophic,immediate,efficient,total
+76,active,unavoidable,MEF crippled,catastrophic,immediate,super effective,partial
+77,active,unavoidable,MEF crippled,catastrophic,immediate,super effective,total
+78,active,unavoidable,MEF fail,catastrophic,immediate,laborious,partial
+79,active,unavoidable,MEF fail,catastrophic,immediate,laborious,total
+80,active,unavoidable,MEF fail,catastrophic,immediate,efficient,partial
+81,active,unavoidable,MEF fail,catastrophic,immediate,efficient,total
+82,active,unavoidable,MEF fail,catastrophic,immediate,super effective,partial
+83,active,unavoidable,MEF fail,catastrophic,immediate,super effective,total
+84,active,unavoidable,mission fail,catastrophic,immediate,laborious,partial
+85,active,unavoidable,mission fail,catastrophic,immediate,laborious,total
+86,active,unavoidable,mission fail,catastrophic,immediate,efficient,partial
+87,active,unavoidable,mission fail,catastrophic,immediate,efficient,total
+88,active,unavoidable,mission fail,catastrophic,immediate,super effective,partial
+89,active,unavoidable,mission fail,catastrophic,immediate,super effective,total
+90,active,small,mission fail,hazardous,immediate,laborious,partial
+91,active,small,mission fail,hazardous,immediate,laborious,total
+92,active,small,mission fail,hazardous,immediate,efficient,partial
+93,active,small,mission fail,hazardous,immediate,efficient,total
+94,active,small,mission fail,hazardous,immediate,super effective,partial
+95,active,small,mission fail,hazardous,immediate,super effective,total
+96,active,controlled,MEF fail,hazardous,immediate,laborious,partial
+97,active,controlled,MEF fail,hazardous,immediate,laborious,total
+98,active,controlled,MEF fail,hazardous,immediate,efficient,partial
+99,active,controlled,MEF fail,hazardous,immediate,efficient,total
+100,active,controlled,MEF fail,hazardous,immediate,super effective,partial
+101,active,controlled,MEF fail,hazardous,immediate,super effective,total
+102,active,controlled,mission fail,hazardous,immediate,laborious,partial
+103,active,controlled,mission fail,hazardous,immediate,laborious,total
+104,active,controlled,mission fail,hazardous,immediate,efficient,partial
+105,active,controlled,mission fail,hazardous,immediate,efficient,total
+106,active,controlled,mission fail,hazardous,immediate,super effective,partial
+107,active,controlled,mission fail,hazardous,immediate,super effective,total
+108,active,unavoidable,none,hazardous,immediate,laborious,partial
+109,active,unavoidable,none,hazardous,immediate,laborious,total
+110,active,unavoidable,none,hazardous,immediate,efficient,partial
+111,active,unavoidable,none,hazardous,immediate,efficient,total
+112,active,unavoidable,none,hazardous,immediate,super effective,partial
+113,active,unavoidable,none,hazardous,immediate,super effective,total
+114,active,unavoidable,degraded,hazardous,immediate,laborious,partial
+115,active,unavoidable,degraded,hazardous,immediate,laborious,total
+116,active,unavoidable,degraded,hazardous,immediate,efficient,partial
+117,active,unavoidable,degraded,hazardous,immediate,efficient,total
+118,active,unavoidable,degraded,hazardous,immediate,super effective,partial
+119,active,unavoidable,degraded,hazardous,immediate,super effective,total
+120,active,unavoidable,MEF crippled,hazardous,immediate,laborious,partial
+121,active,unavoidable,MEF crippled,hazardous,immediate,laborious,total
+122,active,unavoidable,MEF crippled,hazardous,immediate,efficient,partial
+123,active,unavoidable,MEF crippled,hazardous,immediate,efficient,total
+124,active,unavoidable,MEF crippled,hazardous,immediate,super effective,partial
+125,active,unavoidable,MEF crippled,hazardous,immediate,super effective,total
+126,active,unavoidable,MEF fail,hazardous,immediate,laborious,partial
+127,active,unavoidable,MEF fail,hazardous,immediate,laborious,total
+128,active,unavoidable,MEF fail,hazardous,immediate,efficient,partial
+129,active,unavoidable,MEF fail,hazardous,immediate,efficient,total
+130,active,unavoidable,MEF fail,hazardous,immediate,super effective,partial
+131,active,unavoidable,MEF fail,hazardous,immediate,super effective,total
+132,active,unavoidable,mission fail,hazardous,immediate,laborious,partial
+133,active,unavoidable,mission fail,hazardous,immediate,laborious,total
+134,active,unavoidable,mission fail,hazardous,immediate,efficient,partial
+135,active,unavoidable,mission fail,hazardous,immediate,efficient,total
+136,active,unavoidable,mission fail,hazardous,immediate,super effective,partial
+137,active,unavoidable,mission fail,hazardous,immediate,super effective,total
+138,active,controlled,mission fail,major,immediate,efficient,partial
+139,active,controlled,mission fail,major,immediate,efficient,total
+140,active,controlled,mission fail,major,immediate,super effective,partial
+141,active,controlled,mission fail,major,immediate,super effective,total
+142,active,unavoidable,MEF fail,major,immediate,efficient,partial
+143,active,unavoidable,MEF fail,major,immediate,efficient,total
+144,active,unavoidable,MEF fail,major,immediate,super effective,partial
+145,active,unavoidable,MEF fail,major,immediate,super effective,total
+146,active,unavoidable,mission fail,major,immediate,efficient,partial
+147,active,unavoidable,mission fail,major,immediate,efficient,total
+148,active,unavoidable,mission fail,major,immediate,super effective,partial
+149,active,unavoidable,mission fail,major,immediate,super effective,total
+150,active,small,MEF fail,major,out-of-band,laborious,partial
+151,active,small,MEF fail,major,out-of-band,laborious,total
+152,active,small,mission fail,major,out-of-band,laborious,partial
+153,active,small,mission fail,major,out-of-band,laborious,total
+154,active,controlled,degraded,major,out-of-band,laborious,partial
+155,active,controlled,degraded,major,out-of-band,laborious,total
+156,active,controlled,MEF crippled,major,out-of-band,laborious,partial
+157,active,controlled,MEF crippled,major,out-of-band,laborious,total
+158,active,controlled,MEF fail,major,out-of-band,laborious,partial
+159,active,controlled,MEF fail,major,out-of-band,laborious,total
+160,active,unavoidable,none,major,out-of-band,laborious,partial
+161,active,unavoidable,none,major,out-of-band,laborious,total
+162,active,unavoidable,degraded,major,out-of-band,laborious,partial
+163,active,unavoidable,degraded,major,out-of-band,laborious,total
+164,active,unavoidable,MEF crippled,major,out-of-band,laborious,partial
+165,active,unavoidable,MEF crippled,major,out-of-band,laborious,total
+166,active,controlled,mission fail,minor,immediate,super effective,partial
+167,active,controlled,mission fail,minor,immediate,super effective,total
+168,active,unavoidable,MEF fail,minor,immediate,super effective,partial
+169,active,unavoidable,MEF fail,minor,immediate,super effective,total
+170,active,unavoidable,mission fail,minor,immediate,super effective,partial
+171,active,unavoidable,mission fail,minor,immediate,super effective,total
+172,active,small,mission fail,minor,out-of-band,laborious,partial
+173,active,small,mission fail,minor,out-of-band,laborious,total
+174,active,small,mission fail,minor,out-of-band,efficient,partial
+175,active,small,mission fail,minor,out-of-band,efficient,total
+176,active,controlled,MEF fail,minor,out-of-band,laborious,partial
+177,active,controlled,MEF fail,minor,out-of-band,laborious,total
+178,active,controlled,MEF fail,minor,out-of-band,efficient,partial
+179,active,controlled,MEF fail,minor,out-of-band,efficient,total
+180,active,unavoidable,degraded,minor,out-of-band,laborious,partial
+181,active,unavoidable,degraded,minor,out-of-band,laborious,total
+182,active,unavoidable,degraded,minor,out-of-band,efficient,partial
+183,active,unavoidable,degraded,minor,out-of-band,efficient,total
+184,active,unavoidable,MEF crippled,minor,out-of-band,laborious,partial
+185,active,unavoidable,MEF crippled,minor,out-of-band,laborious,total
+186,active,unavoidable,MEF crippled,minor,out-of-band,efficient,partial
+187,active,unavoidable,MEF crippled,minor,out-of-band,efficient,total
+188,active,controlled,mission fail,none,immediate,super effective,total
+189,active,unavoidable,MEF fail,none,immediate,super effective,total
+190,active,unavoidable,mission fail,none,immediate,super effective,total
+191,active,small,mission fail,none,out-of-band,laborious,total
+192,active,small,mission fail,none,out-of-band,efficient,partial
+193,active,small,mission fail,none,out-of-band,efficient,total
+194,active,small,mission fail,none,out-of-band,super effective,partial
+195,active,controlled,MEF fail,none,out-of-band,laborious,total
+196,active,controlled,MEF fail,none,out-of-band,efficient,partial
+197,active,controlled,MEF fail,none,out-of-band,efficient,total
+198,active,controlled,MEF fail,none,out-of-band,super effective,partial
+199,active,unavoidable,MEF crippled,none,out-of-band,laborious,total
+200,active,unavoidable,MEF crippled,none,out-of-band,efficient,partial
+201,active,unavoidable,MEF crippled,none,out-of-band,efficient,total
+202,active,unavoidable,MEF crippled,none,out-of-band,super effective,partial
+203,active,small,MEF crippled,none,scheduled,laborious,partial
+204,active,small,MEF fail,none,scheduled,laborious,partial
+205,active,controlled,degraded,none,scheduled,laborious,partial
+206,active,controlled,MEF crippled,none,scheduled,laborious,partial
+207,active,unavoidable,degraded,none,scheduled,laborious,partial
+208,none,small,none,catastrophic,out-of-band,laborious,total
+209,none,small,none,catastrophic,out-of-band,efficient,partial
+210,none,small,none,catastrophic,out-of-band,efficient,total
+211,none,small,none,catastrophic,out-of-band,super effective,partial
+212,none,small,none,catastrophic,out-of-band,super effective,total
+213,none,small,degraded,catastrophic,out-of-band,laborious,total
+214,none,small,degraded,catastrophic,out-of-band,efficient,partial
+215,none,small,degraded,catastrophic,out-of-band,efficient,total
+216,none,small,degraded,catastrophic,out-of-band,super effective,partial
+217,none,small,degraded,catastrophic,out-of-band,super effective,total
+218,none,small,MEF crippled,catastrophic,out-of-band,laborious,total
+219,none,small,MEF crippled,catastrophic,out-of-band,efficient,partial
+220,none,small,MEF crippled,catastrophic,out-of-band,efficient,total
+221,none,small,MEF crippled,catastrophic,out-of-band,super effective,partial
+222,none,small,MEF crippled,catastrophic,out-of-band,super effective,total
+223,none,small,MEF fail,catastrophic,out-of-band,laborious,total
+224,none,small,MEF fail,catastrophic,out-of-band,efficient,partial
+225,none,small,MEF fail,catastrophic,out-of-band,efficient,total
+226,none,small,MEF fail,catastrophic,out-of-band,super effective,partial
+227,none,small,MEF fail,catastrophic,out-of-band,super effective,total
+228,none,small,mission fail,catastrophic,out-of-band,laborious,total
+229,none,small,mission fail,catastrophic,out-of-band,efficient,partial
+230,none,small,mission fail,catastrophic,out-of-band,efficient,total
+231,none,small,mission fail,catastrophic,out-of-band,super effective,partial
+232,none,small,mission fail,catastrophic,out-of-band,super effective,total
+233,none,controlled,none,catastrophic,out-of-band,laborious,total
+234,none,controlled,none,catastrophic,out-of-band,efficient,partial
+235,none,controlled,none,catastrophic,out-of-band,efficient,total
+236,none,controlled,none,catastrophic,out-of-band,super effective,partial
+237,none,controlled,none,catastrophic,out-of-band,super effective,total
+238,none,controlled,degraded,catastrophic,out-of-band,laborious,total
+239,none,controlled,degraded,catastrophic,out-of-band,efficient,partial
+240,none,controlled,degraded,catastrophic,out-of-band,efficient,total
+241,none,controlled,degraded,catastrophic,out-of-band,super effective,partial
+242,none,controlled,degraded,catastrophic,out-of-band,super effective,total
+243,none,controlled,MEF crippled,catastrophic,out-of-band,laborious,total
+244,none,controlled,MEF crippled,catastrophic,out-of-band,efficient,partial
+245,none,controlled,MEF crippled,catastrophic,out-of-band,efficient,total
+246,none,controlled,MEF crippled,catastrophic,out-of-band,super effective,partial
+247,none,controlled,MEF crippled,catastrophic,out-of-band,super effective,total
+248,none,controlled,MEF fail,catastrophic,out-of-band,laborious,total
+249,none,controlled,MEF fail,catastrophic,out-of-band,efficient,partial
+250,none,controlled,MEF fail,catastrophic,out-of-band,efficient,total
+251,none,controlled,MEF fail,catastrophic,out-of-band,super effective,partial
+252,none,controlled,MEF fail,catastrophic,out-of-band,super effective,total
+253,none,controlled,mission fail,catastrophic,out-of-band,laborious,total
+254,none,controlled,mission fail,catastrophic,out-of-band,efficient,partial
+255,none,controlled,mission fail,catastrophic,out-of-band,efficient,total
+256,none,controlled,mission fail,catastrophic,out-of-band,super effective,partial
+257,none,controlled,mission fail,catastrophic,out-of-band,super effective,total
+258,none,controlled,none,hazardous,out-of-band,efficient,total
+259,none,controlled,none,hazardous,out-of-band,super effective,partial
+260,none,controlled,none,hazardous,out-of-band,super effective,total
+261,none,controlled,degraded,hazardous,out-of-band,efficient,total
+262,none,controlled,degraded,hazardous,out-of-band,super effective,partial
+263,none,controlled,degraded,hazardous,out-of-band,super effective,total
+264,none,controlled,MEF crippled,hazardous,out-of-band,efficient,total
+265,none,controlled,MEF crippled,hazardous,out-of-band,super effective,partial
+266,none,controlled,MEF crippled,hazardous,out-of-band,super effective,total
+267,none,controlled,MEF fail,hazardous,out-of-band,efficient,total
+268,none,controlled,MEF fail,hazardous,out-of-band,super effective,partial
+269,none,controlled,MEF fail,hazardous,out-of-band,super effective,total
+270,none,controlled,mission fail,hazardous,out-of-band,efficient,total
+271,none,controlled,mission fail,hazardous,out-of-band,super effective,partial
+272,none,controlled,mission fail,hazardous,out-of-band,super effective,total
+273,none,unavoidable,none,hazardous,out-of-band,efficient,total
+274,none,unavoidable,none,hazardous,out-of-band,super effective,partial
+275,none,unavoidable,none,hazardous,out-of-band,super effective,total
+276,none,unavoidable,degraded,hazardous,out-of-band,efficient,total
+277,none,unavoidable,degraded,hazardous,out-of-band,super effective,partial
+278,none,unavoidable,degraded,hazardous,out-of-band,super effective,total
+279,none,unavoidable,MEF crippled,hazardous,out-of-band,efficient,total
+280,none,unavoidable,MEF crippled,hazardous,out-of-band,super effective,partial
+281,none,unavoidable,MEF crippled,hazardous,out-of-band,super effective,total
+282,none,unavoidable,MEF fail,hazardous,out-of-band,efficient,total
+283,none,unavoidable,MEF fail,hazardous,out-of-band,super effective,partial
+284,none,unavoidable,MEF fail,hazardous,out-of-band,super effective,total
+285,none,unavoidable,mission fail,hazardous,out-of-band,efficient,total
+286,none,unavoidable,mission fail,hazardous,out-of-band,super effective,partial
+287,none,unavoidable,mission fail,hazardous,out-of-band,super effective,total
+288,none,small,none,hazardous,scheduled,laborious,partial
+289,none,small,none,hazardous,scheduled,laborious,total
+290,none,small,none,hazardous,scheduled,efficient,partial
+291,none,small,degraded,hazardous,scheduled,laborious,partial
+292,none,small,degraded,hazardous,scheduled,laborious,total
+293,none,small,degraded,hazardous,scheduled,efficient,partial
+294,none,small,MEF crippled,hazardous,scheduled,laborious,partial
+295,none,small,MEF crippled,hazardous,scheduled,laborious,total
+296,none,small,MEF crippled,hazardous,scheduled,efficient,partial
+297,none,small,MEF fail,hazardous,scheduled,laborious,partial
+298,none,small,MEF fail,hazardous,scheduled,laborious,total
+299,none,small,MEF fail,hazardous,scheduled,efficient,partial
+300,none,small,mission fail,hazardous,scheduled,laborious,partial
+301,none,small,mission fail,hazardous,scheduled,laborious,total
+302,none,small,mission fail,hazardous,scheduled,efficient,partial
+303,none,small,degraded,major,scheduled,laborious,partial
+304,none,small,degraded,major,scheduled,laborious,total
+305,none,small,degraded,major,scheduled,efficient,partial
+306,none,small,degraded,major,scheduled,efficient,total
+307,none,small,degraded,major,scheduled,super effective,partial
+308,none,small,degraded,major,scheduled,super effective,total
+309,none,small,MEF crippled,major,scheduled,laborious,partial
+310,none,small,MEF crippled,major,scheduled,laborious,total
+311,none,small,MEF crippled,major,scheduled,efficient,partial
+312,none,small,MEF crippled,major,scheduled,efficient,total
+313,none,small,MEF crippled,major,scheduled,super effective,partial
+314,none,small,MEF crippled,major,scheduled,super effective,total
+315,none,small,MEF fail,major,scheduled,laborious,partial
+316,none,small,MEF fail,major,scheduled,laborious,total
+317,none,small,MEF fail,major,scheduled,efficient,partial
+318,none,small,MEF fail,major,scheduled,efficient,total
+319,none,small,MEF fail,major,scheduled,super effective,partial
+320,none,small,MEF fail,major,scheduled,super effective,total
+321,none,small,mission fail,major,scheduled,laborious,partial
+322,none,small,mission fail,major,scheduled,laborious,total
+323,none,small,mission fail,major,scheduled,efficient,partial
+324,none,small,mission fail,major,scheduled,efficient,total
+325,none,small,mission fail,major,scheduled,super effective,partial
+326,none,small,mission fail,major,scheduled,super effective,total
+327,none,controlled,none,major,scheduled,laborious,partial
+328,none,controlled,none,major,scheduled,laborious,total
+329,none,controlled,none,major,scheduled,efficient,partial
+330,none,controlled,none,major,scheduled,efficient,total
+331,none,controlled,none,major,scheduled,super effective,partial
+332,none,controlled,none,major,scheduled,super effective,total
+333,none,controlled,degraded,major,scheduled,laborious,partial
+334,none,controlled,degraded,major,scheduled,laborious,total
+335,none,controlled,degraded,major,scheduled,efficient,partial
+336,none,controlled,degraded,major,scheduled,efficient,total
+337,none,controlled,degraded,major,scheduled,super effective,partial
+338,none,controlled,degraded,major,scheduled,super effective,total
+339,none,controlled,MEF crippled,major,scheduled,laborious,partial
+340,none,controlled,MEF crippled,major,scheduled,laborious,total
+341,none,controlled,MEF crippled,major,scheduled,efficient,partial
+342,none,controlled,MEF crippled,major,scheduled,efficient,total
+343,none,controlled,MEF crippled,major,scheduled,super effective,partial
+344,none,controlled,MEF crippled,major,scheduled,super effective,total
+345,none,controlled,MEF fail,major,scheduled,laborious,partial
+346,none,controlled,MEF fail,major,scheduled,laborious,total
+347,none,controlled,MEF fail,major,scheduled,efficient,partial
+348,none,controlled,MEF fail,major,scheduled,efficient,total
+349,none,controlled,MEF fail,major,scheduled,super effective,partial
+350,none,controlled,MEF fail,major,scheduled,super effective,total
+351,none,unavoidable,none,major,scheduled,laborious,partial
+352,none,unavoidable,none,major,scheduled,laborious,total
+353,none,unavoidable,none,major,scheduled,efficient,partial
+354,none,unavoidable,none,major,scheduled,efficient,total
+355,none,unavoidable,none,major,scheduled,super effective,partial
+356,none,unavoidable,none,major,scheduled,super effective,total
+357,none,unavoidable,degraded,major,scheduled,laborious,partial
+358,none,unavoidable,degraded,major,scheduled,laborious,total
+359,none,unavoidable,degraded,major,scheduled,efficient,partial
+360,none,unavoidable,degraded,major,scheduled,efficient,total
+361,none,unavoidable,degraded,major,scheduled,super effective,partial
+362,none,unavoidable,degraded,major,scheduled,super effective,total
+363,none,unavoidable,MEF crippled,major,scheduled,laborious,partial
+364,none,unavoidable,MEF crippled,major,scheduled,laborious,total
+365,none,unavoidable,MEF crippled,major,scheduled,efficient,partial
+366,none,unavoidable,MEF crippled,major,scheduled,efficient,total
+367,none,unavoidable,MEF crippled,major,scheduled,super effective,partial
+368,none,unavoidable,MEF crippled,major,scheduled,super effective,total
+369,none,small,none,minor,defer,laborious,partial
+370,none,small,none,minor,defer,laborious,total
+371,none,small,degraded,minor,defer,laborious,partial
+372,none,small,degraded,minor,defer,laborious,total
+373,none,controlled,none,minor,defer,laborious,partial
+374,none,controlled,none,minor,defer,laborious,total
+375,none,controlled,degraded,minor,defer,laborious,partial
+376,none,controlled,degraded,minor,defer,laborious,total
+377,none,small,MEF crippled,minor,scheduled,efficient,partial
+378,none,small,MEF crippled,minor,scheduled,efficient,total
+379,none,small,MEF crippled,minor,scheduled,super effective,partial
+380,none,small,MEF crippled,minor,scheduled,super effective,total
+381,none,small,MEF fail,minor,scheduled,efficient,partial
+382,none,small,MEF fail,minor,scheduled,efficient,total
+383,none,small,MEF fail,minor,scheduled,super effective,partial
+384,none,small,MEF fail,minor,scheduled,super effective,total
+385,none,small,mission fail,minor,scheduled,efficient,partial
+386,none,small,mission fail,minor,scheduled,efficient,total
+387,none,small,mission fail,minor,scheduled,super effective,partial
+388,none,small,mission fail,minor,scheduled,super effective,total
+389,none,controlled,MEF crippled,minor,scheduled,efficient,partial
+390,none,controlled,MEF crippled,minor,scheduled,efficient,total
+391,none,controlled,MEF crippled,minor,scheduled,super effective,partial
+392,none,controlled,MEF crippled,minor,scheduled,super effective,total
+393,none,controlled,MEF fail,minor,scheduled,efficient,partial
+394,none,controlled,MEF fail,minor,scheduled,efficient,total
+395,none,controlled,MEF fail,minor,scheduled,super effective,partial
+396,none,controlled,MEF fail,minor,scheduled,super effective,total
+397,none,unavoidable,none,minor,scheduled,efficient,partial
+398,none,unavoidable,none,minor,scheduled,efficient,total
+399,none,unavoidable,none,minor,scheduled,super effective,partial
+400,none,unavoidable,none,minor,scheduled,super effective,total
+401,none,unavoidable,degraded,minor,scheduled,efficient,partial
+402,none,unavoidable,degraded,minor,scheduled,efficient,total
+403,none,unavoidable,degraded,minor,scheduled,super effective,partial
+404,none,unavoidable,degraded,minor,scheduled,super effective,total
+405,none,unavoidable,MEF crippled,minor,scheduled,efficient,partial
+406,none,unavoidable,MEF crippled,minor,scheduled,efficient,total
+407,none,unavoidable,MEF crippled,minor,scheduled,super effective,partial
+408,none,unavoidable,MEF crippled,minor,scheduled,super effective,total
+409,none,unavoidable,MEF fail,minor,scheduled,efficient,partial
+410,none,unavoidable,MEF fail,minor,scheduled,efficient,total
+411,none,unavoidable,MEF fail,minor,scheduled,super effective,partial
+412,none,unavoidable,MEF fail,minor,scheduled,super effective,total
+413,none,small,none,none,defer,laborious,partial
+414,none,small,none,none,defer,laborious,total
+415,none,small,none,none,defer,efficient,partial
+416,none,small,degraded,none,defer,laborious,partial
+417,none,small,degraded,none,defer,laborious,total
+418,none,small,degraded,none,defer,efficient,partial
+419,none,small,MEF crippled,none,defer,laborious,partial
+420,none,small,MEF crippled,none,defer,laborious,total
+421,none,small,MEF crippled,none,defer,efficient,partial
+422,none,controlled,none,none,defer,laborious,partial
+423,none,controlled,none,none,defer,laborious,total
+424,none,controlled,none,none,defer,efficient,partial
+425,none,controlled,degraded,none,defer,laborious,partial
+426,none,controlled,degraded,none,defer,laborious,total
+427,none,controlled,degraded,none,defer,efficient,partial
+428,none,controlled,MEF crippled,none,defer,laborious,partial
+429,none,controlled,MEF crippled,none,defer,laborious,total
+430,none,controlled,MEF crippled,none,defer,efficient,partial
+431,none,unavoidable,none,none,defer,laborious,partial
+432,none,unavoidable,none,none,defer,laborious,total
+433,none,unavoidable,none,none,defer,efficient,partial
+434,none,unavoidable,degraded,none,defer,laborious,partial
+435,none,unavoidable,degraded,none,defer,laborious,total
+436,none,unavoidable,degraded,none,defer,efficient,partial
+437,none,small,MEF fail,none,scheduled,efficient,total
+438,none,small,MEF fail,none,scheduled,super effective,partial
+439,none,small,MEF fail,none,scheduled,super effective,total
+440,none,small,mission fail,none,scheduled,efficient,total
+441,none,small,mission fail,none,scheduled,super effective,partial
+442,none,small,mission fail,none,scheduled,super effective,total
+443,none,controlled,MEF fail,none,scheduled,efficient,total
+444,none,controlled,MEF fail,none,scheduled,super effective,partial
+445,none,controlled,MEF fail,none,scheduled,super effective,total
+446,none,unavoidable,MEF crippled,none,scheduled,efficient,total
+447,none,unavoidable,MEF crippled,none,scheduled,super effective,partial
+448,none,unavoidable,MEF crippled,none,scheduled,super effective,total
+449,none,unavoidable,MEF fail,none,scheduled,efficient,total
+450,none,unavoidable,MEF fail,none,scheduled,super effective,partial
+451,none,unavoidable,MEF fail,none,scheduled,super effective,total
+452,poc,small,MEF fail,catastrophic,immediate,laborious,total
+453,poc,small,MEF fail,catastrophic,immediate,efficient,partial
+454,poc,small,MEF fail,catastrophic,immediate,efficient,total
+455,poc,small,MEF fail,catastrophic,immediate,super effective,partial
+456,poc,small,MEF fail,catastrophic,immediate,super effective,total
+457,poc,small,mission fail,catastrophic,immediate,laborious,total
+458,poc,small,mission fail,catastrophic,immediate,efficient,partial
+459,poc,small,mission fail,catastrophic,immediate,efficient,total
+460,poc,small,mission fail,catastrophic,immediate,super effective,partial
+461,poc,small,mission fail,catastrophic,immediate,super effective,total
+462,poc,controlled,none,catastrophic,immediate,laborious,total
+463,poc,controlled,none,catastrophic,immediate,efficient,partial
+464,poc,controlled,none,catastrophic,immediate,efficient,total
+465,poc,controlled,none,catastrophic,immediate,super effective,partial
+466,poc,controlled,none,catastrophic,immediate,super effective,total
+467,poc,controlled,degraded,catastrophic,immediate,laborious,total
+468,poc,controlled,degraded,catastrophic,immediate,efficient,partial
+469,poc,controlled,degraded,catastrophic,immediate,efficient,total
+470,poc,controlled,degraded,catastrophic,immediate,super effective,partial
+471,poc,controlled,degraded,catastrophic,immediate,super effective,total
+472,poc,controlled,MEF crippled,catastrophic,immediate,laborious,total
+473,poc,controlled,MEF crippled,catastrophic,immediate,efficient,partial
+474,poc,controlled,MEF crippled,catastrophic,immediate,efficient,total
+475,poc,controlled,MEF crippled,catastrophic,immediate,super effective,partial
+476,poc,controlled,MEF crippled,catastrophic,immediate,super effective,total
+477,poc,controlled,MEF fail,catastrophic,immediate,laborious,total
+478,poc,controlled,MEF fail,catastrophic,immediate,efficient,partial
+479,poc,controlled,MEF fail,catastrophic,immediate,efficient,total
+480,poc,controlled,MEF fail,catastrophic,immediate,super effective,partial
+481,poc,controlled,MEF fail,catastrophic,immediate,super effective,total
+482,poc,controlled,mission fail,catastrophic,immediate,laborious,total
+483,poc,controlled,mission fail,catastrophic,immediate,efficient,partial
+484,poc,controlled,mission fail,catastrophic,immediate,efficient,total
+485,poc,controlled,mission fail,catastrophic,immediate,super effective,partial
+486,poc,controlled,mission fail,catastrophic,immediate,super effective,total
+487,poc,unavoidable,none,catastrophic,immediate,laborious,total
+488,poc,unavoidable,none,catastrophic,immediate,efficient,partial
+489,poc,unavoidable,none,catastrophic,immediate,efficient,total
+490,poc,unavoidable,none,catastrophic,immediate,super effective,partial
+491,poc,unavoidable,none,catastrophic,immediate,super effective,total
+492,poc,unavoidable,degraded,catastrophic,immediate,laborious,total
+493,poc,unavoidable,degraded,catastrophic,immediate,efficient,partial
+494,poc,unavoidable,degraded,catastrophic,immediate,efficient,total
+495,poc,unavoidable,degraded,catastrophic,immediate,super effective,partial
+496,poc,unavoidable,degraded,catastrophic,immediate,super effective,total
+497,poc,unavoidable,MEF crippled,catastrophic,immediate,laborious,total
+498,poc,unavoidable,MEF crippled,catastrophic,immediate,efficient,partial
+499,poc,unavoidable,MEF crippled,catastrophic,immediate,efficient,total
+500,poc,unavoidable,MEF crippled,catastrophic,immediate,super effective,partial
+501,poc,unavoidable,MEF crippled,catastrophic,immediate,super effective,total
+502,poc,unavoidable,MEF fail,catastrophic,immediate,laborious,total
+503,poc,unavoidable,MEF fail,catastrophic,immediate,efficient,partial
+504,poc,unavoidable,MEF fail,catastrophic,immediate,efficient,total
+505,poc,unavoidable,MEF fail,catastrophic,immediate,super effective,partial
+506,poc,unavoidable,MEF fail,catastrophic,immediate,super effective,total
+507,poc,unavoidable,mission fail,catastrophic,immediate,laborious,total
+508,poc,unavoidable,mission fail,catastrophic,immediate,efficient,partial
+509,poc,unavoidable,mission fail,catastrophic,immediate,efficient,total
+510,poc,unavoidable,mission fail,catastrophic,immediate,super effective,partial
+511,poc,unavoidable,mission fail,catastrophic,immediate,super effective,total
+512,poc,small,none,catastrophic,out-of-band,laborious,partial
+513,poc,small,degraded,catastrophic,out-of-band,laborious,partial
+514,poc,small,MEF crippled,catastrophic,out-of-band,laborious,partial
+515,poc,controlled,mission fail,hazardous,immediate,efficient,partial
+516,poc,controlled,mission fail,hazardous,immediate,efficient,total
+517,poc,controlled,mission fail,hazardous,immediate,super effective,partial
+518,poc,controlled,mission fail,hazardous,immediate,super effective,total
+519,poc,unavoidable,mission fail,hazardous,immediate,efficient,partial
+520,poc,unavoidable,mission fail,hazardous,immediate,efficient,total
+521,poc,unavoidable,mission fail,hazardous,immediate,super effective,partial
+522,poc,unavoidable,mission fail,hazardous,immediate,super effective,total
+523,poc,small,MEF crippled,hazardous,out-of-band,laborious,partial
+524,poc,small,MEF crippled,hazardous,out-of-band,laborious,total
+525,poc,small,MEF fail,hazardous,out-of-band,laborious,partial
+526,poc,small,MEF fail,hazardous,out-of-band,laborious,total
+527,poc,small,mission fail,hazardous,out-of-band,laborious,partial
+528,poc,small,mission fail,hazardous,out-of-band,laborious,total
+529,poc,controlled,none,hazardous,out-of-band,laborious,partial
+530,poc,controlled,none,hazardous,out-of-band,laborious,total
+531,poc,controlled,degraded,hazardous,out-of-band,laborious,partial
+532,poc,controlled,degraded,hazardous,out-of-band,laborious,total
+533,poc,controlled,MEF crippled,hazardous,out-of-band,laborious,partial
+534,poc,controlled,MEF crippled,hazardous,out-of-band,laborious,total
+535,poc,controlled,MEF fail,hazardous,out-of-band,laborious,partial
+536,poc,controlled,MEF fail,hazardous,out-of-band,laborious,total
+537,poc,unavoidable,none,hazardous,out-of-band,laborious,partial
+538,poc,unavoidable,none,hazardous,out-of-band,laborious,total
+539,poc,unavoidable,degraded,hazardous,out-of-band,laborious,partial
+540,poc,unavoidable,degraded,hazardous,out-of-band,laborious,total
+541,poc,unavoidable,MEF crippled,hazardous,out-of-band,laborious,partial
+542,poc,unavoidable,MEF crippled,hazardous,out-of-band,laborious,total
+543,poc,unavoidable,MEF fail,hazardous,out-of-band,laborious,partial
+544,poc,unavoidable,MEF fail,hazardous,out-of-band,laborious,total
+545,poc,small,mission fail,major,out-of-band,laborious,partial
+546,poc,small,mission fail,major,out-of-band,laborious,total
+547,poc,small,mission fail,major,out-of-band,efficient,partial
+548,poc,small,mission fail,major,out-of-band,efficient,total
+549,poc,small,mission fail,major,out-of-band,super effective,partial
+550,poc,small,mission fail,major,out-of-band,super effective,total
+551,poc,controlled,MEF fail,major,out-of-band,laborious,partial
+552,poc,controlled,MEF fail,major,out-of-band,laborious,total
+553,poc,controlled,MEF fail,major,out-of-band,efficient,partial
+554,poc,controlled,MEF fail,major,out-of-band,efficient,total
+555,poc,controlled,MEF fail,major,out-of-band,super effective,partial
+556,poc,controlled,MEF fail,major,out-of-band,super effective,total
+557,poc,unavoidable,degraded,major,out-of-band,laborious,partial
+558,poc,unavoidable,degraded,major,out-of-band,laborious,total
+559,poc,unavoidable,degraded,major,out-of-band,efficient,partial
+560,poc,unavoidable,degraded,major,out-of-band,efficient,total
+561,poc,unavoidable,degraded,major,out-of-band,super effective,partial
+562,poc,unavoidable,degraded,major,out-of-band,super effective,total
+563,poc,unavoidable,MEF crippled,major,out-of-band,laborious,partial
+564,poc,unavoidable,MEF crippled,major,out-of-band,laborious,total
+565,poc,unavoidable,MEF crippled,major,out-of-band,efficient,partial
+566,poc,unavoidable,MEF crippled,major,out-of-band,efficient,total
+567,poc,unavoidable,MEF crippled,major,out-of-band,super effective,partial
+568,poc,unavoidable,MEF crippled,major,out-of-band,super effective,total
+569,poc,unavoidable,MEF fail,major,out-of-band,laborious,partial
+570,poc,unavoidable,MEF fail,major,out-of-band,laborious,total
+571,poc,unavoidable,MEF fail,major,out-of-band,efficient,partial
+572,poc,unavoidable,MEF fail,major,out-of-band,efficient,total
+573,poc,unavoidable,MEF fail,major,out-of-band,super effective,partial
+574,poc,unavoidable,MEF fail,major,out-of-band,super effective,total
+575,poc,unavoidable,MEF fail,minor,out-of-band,efficient,total
+576,poc,unavoidable,MEF fail,minor,out-of-band,super effective,partial
+577,poc,unavoidable,MEF fail,minor,out-of-band,super effective,total
+578,poc,small,MEF crippled,minor,scheduled,laborious,partial
+579,poc,small,MEF crippled,minor,scheduled,laborious,total
+580,poc,small,MEF crippled,minor,scheduled,efficient,partial
+581,poc,small,MEF fail,minor,scheduled,laborious,partial
+582,poc,small,MEF fail,minor,scheduled,laborious,total
+583,poc,small,MEF fail,minor,scheduled,efficient,partial
+584,poc,small,mission fail,minor,scheduled,laborious,partial
+585,poc,small,mission fail,minor,scheduled,laborious,total
+586,poc,small,mission fail,minor,scheduled,efficient,partial
+587,poc,controlled,degraded,minor,scheduled,laborious,partial
+588,poc,controlled,degraded,minor,scheduled,laborious,total
+589,poc,controlled,degraded,minor,scheduled,efficient,partial
+590,poc,controlled,MEF crippled,minor,scheduled,laborious,partial
+591,poc,controlled,MEF crippled,minor,scheduled,laborious,total
+592,poc,controlled,MEF crippled,minor,scheduled,efficient,partial
+593,poc,controlled,MEF fail,minor,scheduled,laborious,partial
+594,poc,controlled,MEF fail,minor,scheduled,laborious,total
+595,poc,controlled,MEF fail,minor,scheduled,efficient,partial
+596,poc,unavoidable,none,minor,scheduled,laborious,partial
+597,poc,unavoidable,none,minor,scheduled,laborious,total
+598,poc,unavoidable,none,minor,scheduled,efficient,partial
+599,poc,unavoidable,degraded,minor,scheduled,laborious,partial
+600,poc,unavoidable,degraded,minor,scheduled,laborious,total
+601,poc,unavoidable,degraded,minor,scheduled,efficient,partial
+602,poc,unavoidable,MEF crippled,minor,scheduled,laborious,partial
+603,poc,unavoidable,MEF crippled,minor,scheduled,laborious,total
+604,poc,unavoidable,MEF crippled,minor,scheduled,efficient,partial
+605,poc,unavoidable,MEF fail,none,out-of-band,super effective,total
+606,poc,small,MEF crippled,none,scheduled,laborious,partial
+607,poc,small,MEF crippled,none,scheduled,laborious,total
+608,poc,small,MEF crippled,none,scheduled,efficient,partial
+609,poc,small,MEF crippled,none,scheduled,efficient,total
+610,poc,small,MEF crippled,none,scheduled,super effective,partial
+611,poc,small,MEF fail,none,scheduled,laborious,partial
+612,poc,small,MEF fail,none,scheduled,laborious,total
+613,poc,small,MEF fail,none,scheduled,efficient,partial
+614,poc,small,MEF fail,none,scheduled,efficient,total
+615,poc,small,MEF fail,none,scheduled,super effective,partial
+616,poc,small,mission fail,none,scheduled,laborious,partial
+617,poc,small,mission fail,none,scheduled,laborious,total
+618,poc,small,mission fail,none,scheduled,efficient,partial
+619,poc,small,mission fail,none,scheduled,efficient,total
+620,poc,small,mission fail,none,scheduled,super effective,partial
+621,poc,controlled,MEF crippled,none,scheduled,laborious,partial
+622,poc,controlled,MEF crippled,none,scheduled,laborious,total
+623,poc,controlled,MEF crippled,none,scheduled,efficient,partial
+624,poc,controlled,MEF crippled,none,scheduled,efficient,total
+625,poc,controlled,MEF crippled,none,scheduled,super effective,partial
+626,poc,controlled,MEF fail,none,scheduled,laborious,partial
+627,poc,controlled,MEF fail,none,scheduled,laborious,total
+628,poc,controlled,MEF fail,none,scheduled,efficient,partial
+629,poc,controlled,MEF fail,none,scheduled,efficient,total
+630,poc,controlled,MEF fail,none,scheduled,super effective,partial
+631,poc,unavoidable,degraded,none,scheduled,laborious,partial
+632,poc,unavoidable,degraded,none,scheduled,laborious,total
+633,poc,unavoidable,degraded,none,scheduled,efficient,partial
+634,poc,unavoidable,degraded,none,scheduled,efficient,total
+635,poc,unavoidable,degraded,none,scheduled,super effective,partial
+636,poc,unavoidable,MEF crippled,none,scheduled,laborious,partial
+637,poc,unavoidable,MEF crippled,none,scheduled,laborious,total
+638,poc,unavoidable,MEF crippled,none,scheduled,efficient,partial
+639,poc,unavoidable,MEF crippled,none,scheduled,efficient,total
+640,poc,unavoidable,MEF crippled,none,scheduled,super effective,partial
