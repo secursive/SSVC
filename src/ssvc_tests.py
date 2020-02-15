@@ -2,7 +2,7 @@
 '''
 file: ssvc_tests
 author: secursive
-reference: https://secursive.github.io/posts/1-Critical-Look-Stakeholder-Specific-Vulnerability-Categorization-SSVC.html
+reference: https://blog.secursive.com/posts/1-Critical-Look-Stakeholder-Specific-Vulnerability-Categorization-SSVC.html
 '''
 
 import unittest
@@ -132,7 +132,7 @@ class SSVC_Tests(unittest.TestCase):
 			pprint.pprint(div_max_examples, stream=f_div)
 
 def main():
-	print('\nTest Details: https://secursive.github.io/posts/1-Critical-Look-Stakeholder-Specific-Vulnerability-Categorization-SSVC.html')
+	print('\nTest Details: https://blog.secursive.com/posts/1-Critical-Look-Stakeholder-Specific-Vulnerability-Categorization-SSVC.html')
 	unittest.main()
 
 if __name__ == '__main__':
