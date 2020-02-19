@@ -11,7 +11,7 @@ This is a fork of SSVC repository. The changes are as follows:
  - `ssvc_1_outer_merge_numbers.csv`
 - This README.md is modified to reflect the changes.
 
-These tests are added in the context of the article: [A Critical First Look at Stakeholder Specific Vulnerability Categorization (SSVC)](https://blog.secursive.com/posts/critical-first-look-stakeholder-specific-vulnerability-categorization-ssvc/).
+These tests are added in the context of the article: [A Critical First Look at Stakeholder Specific Vulnerability Categorization (SSVC)](https://blog.secursive.com/posts/critical-look-stakeholder-specific-vulnerability-categorization-ssvc/).
 
 ---
 
@@ -48,4 +48,4 @@ This performs various tests on SSVC model and store the results in various files
 
 1. Spring, J., Hatleback, E., Householder, A., Manion, A., and Shick, D. "Prioritizing Vulnerability Response: A Stakeholder-Specific Vulnerability Categorization." White Paper, Software Engineering Institute, Carnegie Mellon University (2019). https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=636379
 2. Spring, J., Hatleback, E., Householder, A., Manion, A., and Shick, D. "Towards Improving CVSS." White Paper, Software Engineering Institute, Carnegie Mellon University (2018). https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=538368
-3. Akbar, M. "A Critical First Look at Stakeholder Specific Vulnerability Categorization (SSVC)." Article, Secursive Blog, Secursive (2020). https://blog.secursive.com/posts/critical-first-look-stakeholder-specific-vulnerability-categorization-ssvc/
+3. Akbar, M. "A Critical First Look at Stakeholder Specific Vulnerability Categorization (SSVC)." Article, Secursive Blog, Secursive (2020). https://blog.secursive.com/posts/critical-look-stakeholder-specific-vulnerability-categorization-ssvc/
