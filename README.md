@@ -11,7 +11,7 @@ This is a fork of SSVC repository. The changes are as follows:
  - `ssvc_1_outer_merge_numbers.csv`
 - This README.md is modified to reflect the changes.
 
-These tests are added in the context of the article: [A Critical First Look at Stakeholder Specific Vulnerability Categorization (SSVC)](https://blog.secursive.com/posts/1-Critical-Look-Stakeholder-Specific-Vulnerability-Categorization-SSVC.html).
+These tests are added in the context of the article: [A Critical First Look at Stakeholder Specific Vulnerability Categorization (SSVC)](https://blog.secursive.com/posts/critical-first-look-stakeholder-specific-vulnerability-categorization-ssvc/).
 
 ---
 
