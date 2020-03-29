@@ -97,6 +97,8 @@ class SSVC_Tests(unittest.TestCase):
 		combs_values = list(itertools.product(*dict_all_cols_values))
 		combs_keys = dict_all_cols_keys
 		div_diff = {0: 0, 1:0, 2:0, 3:0}
+		div_diff_applier_higher = {1:0, 2:0, 3:0}
+		div_diff_dev_higher = {1:0, 2:0, 3:0}
 		div_sets = set() # set of (dev_outcome, app_outcome) sets
 		div_max_examples = list()
 		for c_v in combs_values:
@@ -116,6 +118,10 @@ class SSVC_Tests(unittest.TestCase):
 			app_outcome_number = outcome_dict[app_outcome]
 			div_sets.add((dev_outcome, app_outcome))
 			outcome_diff = abs(dev_outcome_number - app_outcome_number)
+			if dev_outcome_number > app_outcome_number:
+				div_diff_dev_higher[outcome_diff] = div_diff_dev_higher[outcome_diff] + 1
+			elif app_outcome_number > dev_outcome_number:
+				div_diff_applier_higher[outcome_diff] = div_diff_applier_higher[outcome_diff] + 1
 			div_diff[outcome_diff] = div_diff[outcome_diff] + 1
 			if outcome_diff == max(div_diff.keys()):
 				c_v_example = c_v
@@ -126,6 +132,10 @@ class SSVC_Tests(unittest.TestCase):
 		with open('../data/ssvc_1_divergence.txt', 'w+') as f_div:
 			f_div.write('Frequency of difference between Developer and Applier outcomes:\n')
 			pprint.pprint(div_diff, stream=f_div)
+			f_div.write('\nFrequency of difference between Developer and Applier outcomes where Developer outcome is higher:\n')
+			pprint.pprint(div_diff_dev_higher, stream=f_div)
+			f_div.write('\nFrequency of difference between Developer and Applier outcomes where Applier outcome is higher:\n')
+			pprint.pprint(div_diff_applier_higher, stream=f_div)
 			f_div.write('\nCombinations of unique (Developer Outcome, Applier Outcome) possible sets:\n')
 			pprint.pprint(div_sets, stream=f_div)
 			f_div.write('\nCombinations that lead to maximum possible difference between Developer and Applier Outcome:\n')
