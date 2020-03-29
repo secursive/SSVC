@@ -1,6 +1,12 @@
 Frequency of difference between Developer and Applier outcomes:
 {0: 641, 1: 592, 2: 111, 3: 6}
 
+Frequency of difference between Developer and Applier outcomes where Developer outcome is higher:
+{1: 385, 2: 77, 3: 6}
+
+Frequency of difference between Developer and Applier outcomes where Applier outcome is higher:
+{1: 207, 2: 34, 3: 0}
+
 Combinations of unique (Developer Outcome, Applier Outcome) possible sets:
 set([('defer', 'defer'),
      ('defer', 'out-of-band'),
